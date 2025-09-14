@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Navneeta Mohapatra 
 
-<!--
-**navneeta88/navneeta88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science(AIML) Student | 💡 Passionate about **Machine Learning & AI**  
+🌱 Currently exploring **Python, Data Science, and Cloud tools**  
+🚀 Always eager to learn, build, and share projects that solve real-world problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools  
+- **Languages:** Python, C, HTML,CSS and Javascript
+
+- **Other:** Data Structures & Algorithms, Problem Solving   
+
+---
+
+## 🌐 Connect With Me  
+💼 [LinkedIn]
+https://www.linkedin.com/in/navneeta-mohapatra-2a391b338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+📧 Email: mohapatra.navneeta26@gmail.com
+
+---
+
+⭐️ *“Code, Learn, and Share — every project is a step forward.”*
