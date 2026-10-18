@@ -69,7 +69,7 @@ A hackathon project exploring an insurance experience designed around gig worker
 
 **Cloud / Tools:** AWS S3, Git, GitHub, VS Code
 
-*Keep only skills you can confidently explain and demonstrate.*
+
 
 ---
 
