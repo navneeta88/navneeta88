@@ -13,7 +13,7 @@
 
 ---
 
-## About Me
+<img src="assets/section-about.svg" width="100%" alt="About Me"/>
 
 I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** at GL Bajaj Institute of Technology and Management.
 
@@ -26,7 +26,7 @@ I'm a Computer Science undergraduate specializing in **Artificial Intelligence a
 
 ---
 
-## Featured Projects
+<img src="assets/section-projects.svg" width="100%" alt="Selected Projects"/>
 
 ### 1. ClauseClear — AI-Powered Contract Analysis
 
@@ -59,7 +59,7 @@ A hackathon project exploring an insurance experience designed around gig worker
 
 ---
 
-## Technical Skills
+<img src="assets/section-skills.svg" width="100%" alt="Technical Skills"/>
 
 **Languages:** Python, C++, JavaScript, HTML, CSS
 
@@ -73,7 +73,7 @@ A hackathon project exploring an insurance experience designed around gig worker
 
 ---
 
-## Achievements & Learning
+<img src="assets/section-achievements.svg" width="100%" alt="Achievements"/>
 
 - **Prompt Wars:** Ranked 456 out of 1,752 participants.
 - **WeMakeDevs First Commit:** Certificate of participation, October 2026.
@@ -82,7 +82,7 @@ A hackathon project exploring an insurance experience designed around gig worker
 
 ---
 
-## Coding Profiles
+<img src="assets/section-coding.svg" width="100%" alt="Coding Profiles"/>
 
 <div align="center">
 
@@ -94,7 +94,7 @@ A hackathon project exploring an insurance experience designed around gig worker
 
 ---
 
-## GitHub Activity
+<img src="assets/section-activity.svg" width="100%" alt="GitHub Activity"/>
 
 <div align="center">
 
@@ -109,7 +109,7 @@ A hackathon project exploring an insurance experience designed around gig worker
 
 ---
 
-## Let's Connect
+<img src="assets/section-connect.svg" width="100%" alt="Let's Connect"/>
 
 I'm open to connecting with developers, collaborating on meaningful projects, and exploring suitable AI/ML and software engineering opportunities.
 
