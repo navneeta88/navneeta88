@@ -1,37 +1,53 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Navneeta Mohapatra — AI/ML and Software Development</title>
-  <desc id="desc">A burgundy technical banner with animated light and geometric details.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#10070C"/>
-      <stop offset=".55" stop-color="#451126"/>
-      <stop offset="1" stop-color="#190B12"/>
+      <stop offset="0%" stop-color="#1B0C15"/>
+      <stop offset="55%" stop-color="#351522"/>
+      <stop offset="100%" stop-color="#20283B"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
-      <stop offset=".5" stop-color="#E5B5C7" stop-opacity=".8"/>
-      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="-.8 0" to=".8 0" dur="7s" repeatCount="indefinite"/>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7CAC9"/>
+      <stop offset="100%" stop-color="#92A8D1"/>
     </linearGradient>
+    <clipPath id="portrait">
+      <circle cx="955" cy="174" r="105"/>
+    </clipPath>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#E5B5C7" stroke-opacity=".09" stroke-width="1"/>
+      <path d="M32 0H0V32" fill="none" stroke="#F7CAC9" stroke-opacity=".07"/>
     </pattern>
   </defs>
-  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
-  <circle cx="1020" cy="120" r="150" fill="#701A3D" opacity=".22"/>
-  <circle cx="1020" cy="120" r="100" fill="none" stroke="#C77B9B" stroke-opacity=".55"/>
-  <circle cx="1020" cy="120" r="66" fill="none" stroke="#E5B5C7" stroke-opacity=".3" stroke-dasharray="4 9"/>
-  <path d="M870 205 Q950 20 1050 120 T1200 70" fill="none" stroke="#C77B9B" stroke-width="1.5" opacity=".7">
-    <animate attributeName="stroke-dasharray" values="1 16;16 1;1 16" dur="8s" repeatCount="indefinite"/>
-  </path>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="76" y="76" fill="#E5B5C7" font-size="13" letter-spacing="4">AI / ML  ·  SOFTWARE DEVELOPMENT</text>
-    <text x="72" y="155" fill="#F8F0F3" font-size="49" font-weight="700">Navneeta</text>
-    <text x="72" y="204" fill="#F8F0F3" font-size="49" font-weight="700">Mohapatra</text>
-    <rect x="76" y="228" width="380" height="2" fill="url(#glow)"/>
-    <text x="76" y="264" fill="#E5B5C7" font-size="16">Building practical AI and software solutions.</text>
-    <text x="1120" y="285" text-anchor="end" fill="#E5B5C7" font-size="11" letter-spacing="3">BUILD · LEARN · ITERATE</text>
+  <rect width="1200" height="390" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="390" rx="22" fill="url(#grid)"/>
+  <circle cx="970" cy="172" r="145" fill="#92A8D1" opacity=".08"/>
+  <circle cx="955" cy="174" r="119" fill="none" stroke="#F7CAC9" stroke-opacity=".55" stroke-width="1.5"/>
+  <circle cx="955" cy="174" r="112" fill="none" stroke="#92A8D1" stroke-opacity=".65" stroke-dasharray="3 9"/>
+  <g fill="url(#glow)" opacity=".9">
+    <path d="M1100 58l5 13 13 5-13 5-5 13-5-13-13-5 13-5z"/>
+    <path d="M815 275l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/>
+    <path d="M1092 270l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/>
   </g>
+  <g fill="#F7CAC9" opacity=".75">
+    <circle cx="820" cy="93" r="2.5"/>
+    <circle cx="1100" cy="127" r="2"/>
+    <circle cx="1075" cy="316" r="2.5"/>
+    <circle cx="780" cy="210" r="2"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="76" y="79" fill="#92A8D1" font-size="15" letter-spacing="5">AI / ML  ·  SOFTWARE DEVELOPMENT</text>
+    <text x="72" y="145" fill="#F8F0F3" font-size="47" font-weight="700">Navneeta</text>
+    <text x="72" y="198" fill="#F7CAC9" font-size="47" font-weight="700">Mohapatra</text>
+    <rect x="76" y="221" width="84" height="3" rx="1.5" fill="url(#glow)"/>
+    <text x="76" y="256" fill="#F8F0F3" font-size="18">Computer Science · AI &amp; Machine Learning</text>
+    <text x="76" y="287" fill="#D5C1CC" font-size="15">Building practical projects, learning, and growing.</text>
+    <text x="76" y="340" fill="#F7CAC9" font-size="13" letter-spacing="3">DREAM · BUILD · REPEAT</text>
+  </g>
+  <g clip-path="url(#portrait)">
+    <image href="https://raw.githubusercontent.com/navneeta88/navneeta88/main/assets/profile-photo.png"
+       x="850" y="69" width="210" height="210"
+       preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <circle cx="955" cy="174" r="105" fill="none" stroke="url(#glow)" stroke-width="4"/>
+  <path d="M1125 315l10 10-10 10-10-10z" fill="none" stroke="#92A8D1" stroke-width="1.5"/>
+  <path d="M1148 315l10 10-10 10-10-10z" fill="none" stroke="#F7CAC9" stroke-width="1.5"/>
 </svg>
