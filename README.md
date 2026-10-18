@@ -59,15 +59,23 @@ A hackathon project exploring an insurance experience designed around gig worker
 
 ---
 
-<img src="assets/section-skills.svg" width="100%" alt="Technical Skills"/>
+ <img src="assets/section-skills.svg" width="100%" alt="Technical Skills"/>
 
-**Languages:** Python, C++, JavaScript, HTML, CSS
+**╭─ LANGUAGES**
 
-**AI / Data Science:** Machine Learning, Pandas, NumPy, scikit-learn
+![Python](https://img.shields.io/badge/Python-351522?style=for-the-badge&logo=python&logoColor=F7CAC9) ![C++](https://img.shields.io/badge/C%2B%2B-351522?style=for-the-badge&logo=cplusplus&logoColor=F7CAC9) ![JavaScript](https://img.shields.io/badge/JavaScript-351522?style=for-the-badge&logo=javascript&logoColor=F7CAC9) ![HTML5](https://img.shields.io/badge/HTML5-351522?style=for-the-badge&logo=html5&logoColor=F7CAC9) ![CSS3](https://img.shields.io/badge/CSS3-351522?style=for-the-badge&logo=css3&logoColor=F7CAC9)
 
-**Web Development:** React, Flask, Node.js, Express.js
+**╭─ AI / DATA SCIENCE**
 
-**Cloud / Tools:** AWS S3, Git, GitHub, VS Code
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-291622?style=for-the-badge&logo=scikitlearn&logoColor=F7CAC9) ![Pandas](https://img.shields.io/badge/Pandas-291622?style=for-the-badge&logo=pandas&logoColor=92A8D1) ![NumPy](https://img.shields.io/badge/NumPy-291622?style=for-the-badge&logo=numpy&logoColor=F7CAC9) ![scikit-learn](https://img.shields.io/badge/scikit--learn-291622?style=for-the-badge&logo=scikitlearn&logoColor=92A8D1)
+
+**╭─ WEB DEVELOPMENT**
+
+![React](https://img.shields.io/badge/React-20283B?style=for-the-badge&logo=react&logoColor=92A8D1) ![Flask](https://img.shields.io/badge/Flask-20283B?style=for-the-badge&logo=flask&logoColor=F8F0F3) ![Node.js](https://img.shields.io/badge/Node.js-20283B?style=for-the-badge&logo=nodedotjs&logoColor=92A8D1) ![Express.js](https://img.shields.io/badge/Express.js-20283B?style=for-the-badge&logo=express&logoColor=F8F0F3)
+
+**╭─ CLOUD / TOOLS**
+
+![AWS S3](https://img.shields.io/badge/AWS_S3-351522?style=for-the-badge&logo=amazons3&logoColor=F7CAC9) ![Git](https://img.shields.io/badge/Git-351522?style=for-the-badge&logo=git&logoColor=F7CAC9) ![GitHub](https://img.shields.io/badge/GitHub-351522?style=for-the-badge&logo=github&logoColor=F8F0F3) ![VS Code](https://img.shields.io/badge/VS_Code-351522?style=for-the-badge&logo=visualstudiocode&logoColor=92A8D1)
 
 
 
