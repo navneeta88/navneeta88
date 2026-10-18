@@ -62,22 +62,39 @@ I'm a **B.Tech Computer Science student specializing in AI & Machine Learning at
 ---
 
 <!-- SELECTED PROJECTS -->
-<img src="assets/section-projects.svg" width="100%" alt="Selected Projects"/>
+ <img src="assets/section-projects.svg" width="100%" alt="Selected Projects"/>
 
-### ClauseClear — AI-Powered Contract Analysis
-A document-analysis application designed to help users understand contracts through summaries, risk highlights, and question answering.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ClauseClear</h3>
+      <p>AI-powered contract analysis to help users understand legal documents through summaries, risk highlights, and question answering.</p>
+      <p><strong>Stack:</strong> React · Flask · Groq API · AWS S3</p>
+      <a href="https://github.com/navneeta88/ClauseClear">View repositories</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>RiderSaathi</h3>
+      <p>A rider-assistance project combining a web application with machine-learning functionality.</p>
+      <p><strong>Stack:</strong> Python · Flask · Node.js · JavaScript</p>
+      <a href="https://github.com/navneeta88/RiderSaathi">View repositories</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Data Science Projects</h3>
+      <p>A collection of hands-on projects involving data analysis and machine-learning workflows.</p>
+      <p><strong>Stack:</strong> Python · Pandas · NumPy · scikit-learn</p>
+      <a href="https://github.com/navneeta88/SCT_DS_1">View repositories</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>DSA & Problem Solving</h3>
+      <p>Consistent practice with algorithms, data structures, and competitive programming challenges.</p>
+      <p><strong>Platforms:</strong> LeetCode · CodeChef · Codeforces</p>
+      <a href="https://leetcode.com/u/navoustic1004/">LeetCode profile</a>
+    </td>
+  </tr>
+</table>
 
-**Stack:** React · Flask · Groq API · AWS S3
-
-### RiderSaathi — Intelligent Rider Assistance
-A project focused on rider support, bringing together a web application and machine-learning functionality.
-
-**Stack:** Python · Flask · JavaScript · Node.js
-
-### Data Science Projects
-A collection of hands-on data science internship projects involving data analysis and machine-learning workflows.
-
-**Stack:** Python · Pandas · NumPy · scikit-learn
 
 ---
 
