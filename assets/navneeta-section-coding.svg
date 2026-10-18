@@ -1,0 +1,17 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-labelledby="coding-title">
+  <title id="coding-title">Coding Profiles</title>
+  <defs>
+    <linearGradient id="coding-background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.55" stop-color="#451126"/>
+      <stop offset="1" stop-color="#190B12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="110" rx="12" fill="url(#coding-background)"/>
+  <path d="M30 28H82L101 45L82 62H30M49 45H81" fill="none" stroke="#C77B9B" stroke-width="2"/>
+  <text x="145" y="48" fill="#F8F0F3" font-family="Arial,Helvetica,sans-serif" font-size="27" letter-spacing="3">CODING PROFILES</text>
+  <text x="146" y="73" fill="#E5B5C7" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">PRACTICE · PROBLEM SOLVING · PROGRESS</text>
+  <path d="M760 30H955M790 43H955M830 56H955M870 69H955" stroke="#C77B9B" stroke-opacity="0.45"/>
+  <circle cx="930" cy="30" r="4" fill="#E5B5C7"/>
+</svg>
