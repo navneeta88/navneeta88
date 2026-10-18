@@ -1,0 +1,18 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-labelledby="activity-title">
+  <title id="activity-title">GitHub Activity</title>
+  <defs>
+    <linearGradient id="activity-background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.55" stop-color="#451126"/>
+      <stop offset="1" stop-color="#190B12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="110" rx="12" fill="url(#activity-background)"/>
+  <path d="M24 83H976" stroke="#C77B9B" stroke-opacity="0.5"/>
+  <path d="M30 80H68L82 65L96 80H126L140 48L154 80H190L204 61L218 80H244" fill="none" stroke="#E5B5C7" stroke-width="1.5"/>
+  <text x="275" y="48" fill="#F8F0F3" font-family="Arial,Helvetica,sans-serif" font-size="27" letter-spacing="3">GITHUB ACTIVITY</text>
+  <text x="276" y="73" fill="#E5B5C7" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">CONSISTENCY · CRAFT · CONTRIBUTIONS</text>
+  <circle cx="947" cy="34" r="4" fill="#E5B5C7"/>
+  <circle cx="947" cy="34" r="12" fill="none" stroke="#C77B9B" stroke-opacity="0.65"/>
+</svg>
