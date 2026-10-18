@@ -1,107 +1,124 @@
 
-<p align="center">
-  <img src="assets/navneeta-hero.svg" alt="Navneeta Mohapatra — AI/ML and Software Development" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://navneeta88.github.io/Portfolio/"><strong>Portfolio</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/navneeta88?tab=repositories"><strong>Repositories</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/navneeta-mohapatra-2a391b338/"><strong>LinkedIn</strong></a>
-</p>
+<img src="assets/navneeta-hero.svg" alt="Navneeta Mohapatra — AI/ML Developer" width="100%"/>
+
+<br/>
+
+<a href="https://navneeta88.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-C77B9B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/navneeta-mohapatra-/"><img src="https://img.shields.io/badge/LinkedIn-702D46?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/navneeta88"><img src="https://img.shields.io/badge/GitHub-4A172B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+</div>
 
 ---
 
 ## About Me
 
-I'm Navneeta Mohapatra, a Computer Science and Engineering (AI/ML) student at GLBITM, interested in building practical machine-learning applications and reliable software systems.
+I'm a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** at GL Bajaj Institute of Technology and Management.
 
-My work spans applied AI, backend development, data analysis, and web applications. I enjoy taking an idea from problem definition through implementation, testing, and deployment.
+- Building practical projects with AI/ML and full-stack development.
+- Exploring machine learning, backend engineering, and cloud technologies.
+- Improving my problem-solving skills through DSA and competitive programming.
+- Interested in opportunities where I can build useful software and learn from real-world engineering challenges.
 
-- 🧠 Exploring applied machine learning and AI engineering.
-- ⚙️ Building applications with Python, APIs, and web technologies.
-- 📊 Practising data analysis, feature engineering, and model evaluation.
-- 💻 Strengthening my problem-solving skills through DSA and coding challenges.
+**Currently focused on:** enhancing ClauseClear and strengthening my applied ML and software development skills.
+
+---
 
 ## Featured Projects
 
-### 01 · RiderSaathi — AI-Powered Income Protection
+### 1. ClauseClear — AI-Powered Contract Analysis
 
-An AI-enabled parametric insurance concept designed to help gig workers manage income loss caused by external disruptions.
+A document-analysis application that helps users understand contracts through AI-generated summaries, potential risk identification, question answering, and checklists.
 
-**Highlights**
-- Risk-based weekly premium modelling.
-- A proposed behavioural trust score and multi-layer fraud checks.
-- Frontend, backend, and a separate ML service.
-- A deployed demonstration with simulated integrations.
+- **Focus:** Document processing, AI integration, and web development.
+- **Tech:** React, Flask, Groq API, Llama, AWS S3.
+- **Status:** MVP built; enhancements in progress.
 
-**Stack:** JavaScript, Node.js, Express, MongoDB, Python, Flask, scikit-learn.
+[View project repository](https://github.com/navneeta88/ClauseClear)
 
-[View repository](https://github.com/navneeta88/RiderSaathi) · [Live demo](https://rider-saathi-beta.vercel.app/)
+### 2. RiderSaathi — AI-Enabled Insurance Concept
 
-### 02 · ClauseClear — AI-Assisted Contract Analysis
+A hackathon project exploring an insurance experience designed around gig workers and potential income disruptions.
 
-An application designed to make contract review more accessible through AI-assisted document analysis.
+- **Focus:** Applied AI and full-stack integration.
+- **Contribution:** Describe your specific backend, ML, or integration work accurately when documenting the project.
+- **Tech:** Use the technologies actually present in the repository.
 
-**Highlights**
-- Contract summarisation and risk identification.
-- Document question answering and review checklists.
-- A web interface connected to a Python backend and an LLM API.
+[View RiderSaathi repository](https://github.com/navneeta88/RiderSaathi)
 
-**Stack:** React, Flask, Groq/Llama, AWS S3.
+### Data Science Projects
 
-*An informational tool, not a substitute for professional legal advice.*
+| Project | Description | Repository |
+|---|---|---|
+| Global Population Analysis | Explore population distribution across age groups. | [SCT_DS_1](https://github.com/navneeta88/SCT_DS_1) |
+| Titanic Survival Analysis | Explore factors associated with passenger survival. | [SCT_DS_2](https://github.com/navneeta88/SCT_DS_2) |
+| Bank Deposit Prediction | Apply a Decision Tree model to a classification task. | [SCT_DS_3](https://github.com/navneeta88/SCT_DS_3) |
+| Traffic Accident Analysis | Analyze traffic accident data and patterns. | [SCT_DS_4](https://github.com/navneeta88/SCT_DS_4) |
 
+---
 
+## Technical Skills
 
-### 03 · Data Science & Analysis
+**Languages:** Python, C++, JavaScript, HTML, CSS
 
-A collection of hands-on projects covering exploratory data analysis, visualisation, classification, and predictive modelling.
+**AI / Data Science:** Machine Learning, Pandas, NumPy, scikit-learn
 
-- [Global Population Age Group Analysis](https://github.com/navneeta88/SCT_DS_1)
-- [Titanic Survival Analysis](https://github.com/navneeta88/SCT_DS_2)
-- [Bank Deposit Prediction — Decision Tree](https://github.com/navneeta88/SCT_DS_3)
-- [Traffic Accident Data Analysis](https://github.com/navneeta88/SCT_DS_4)
+**Web Development:** React, Flask, Node.js, Express.js
 
-## Achievements & Recognition
+**Cloud / Tools:** AWS S3, Git, GitHub, VS Code
 
-- 🏆 **Prompt Wars** — Rank 456 out of 1,752 participants.
-- 📜 **WeMakeDevs First Commit** — Certificate of Participation, October 2026.
-- 💻 **Problem solving** — Consistent practice with data structures and algorithms.
+*Keep only skills you can confidently explain and demonstrate.*
 
-*Rankings and credentials should be supported by the corresponding event results or certificates.*
+---
 
-## Technical Toolkit
+## Achievements & Learning
 
-| Category | Technologies |
-|---|---|
-| Languages | Python, C, C++, JavaScript |
-| AI & Machine Learning | Applied ML, classification, feature engineering, model evaluation |
-| Data | Pandas, NumPy, data analysis and visualisation |
-| Frontend | HTML, CSS, JavaScript, React |
-| Backend | Flask, Node.js, Express, REST APIs |
-| Databases & Cloud | MongoDB, AWS S3 |
-| Tools | Git, GitHub, VS Code |
+- **Prompt Wars:** Ranked 456 out of 1,752 participants.
+- **WeMakeDevs First Commit:** Certificate of participation, October 2026.
+- **LeetCode:** Practicing data structures and algorithms.
+- **Continuous learning:** Building projects and participating in technical challenges.
 
-## Certifications & Learning
+---
 
-I continue to build my foundations through technical certifications, developer programmes, coding practice, and project-based learning.
+## Coding Profiles
 
-Only verified credentials should be listed here with their exact certificate titles and issuer links.
+<div align="center">
+
+<a href="https://leetcode.com/u/navoustic1004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.codechef.com/users/glbitm_8038"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://codeforces.com/profile/mohapatra.navneeta26"><img src="https://img.shields.io/badge/Codeforces-1F4E79?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/C77B9B/navneeta88" alt="GitHub contribution activity for navneeta88" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=navneeta88&show_icons=true&hide_border=true&title_color=C77B9B&icon_color=C77B9B&text_color=E6D5DC&bg_color=2B101B" alt="GitHub statistics" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneeta88&layout=compact&hide_border=true&title_color=C77B9B&text_color=E6D5DC&bg_color=2B101B" alt="Most used languages" width="49%"/>
+
+</div>
+
+---
 
 ## Let's Connect
 
-I'm interested in AI/ML engineering, applied AI, backend development, and opportunities to build useful software.
+I'm open to connecting with developers, collaborating on meaningful projects, and exploring suitable AI/ML and software engineering opportunities.
 
-<p align="center">
-  <a href="https://github.com/navneeta88">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://navneeta88.github.io/Portfolio/">Portfolio</a>
-  &nbsp; · &nbsp;
-  <a href="linkedin.com/in/navneeta-mohapatra-">LinkedIn</a>
-</p>
+- **Portfolio:** https://navneeta88.github.io/Portfolio/
+- **LinkedIn:** https://www.linkedin.com/in/navneeta-mohapatra-/
+- **GitHub:** https://github.com/navneeta88
 
-<p align="center">
-  <i>Build with curiosity. Learn through experimentation. Improve with every iteration.</i>
-</p>
+<div align="center">
+
+*Building, learning, and improving — one project at a time.*
+
+</div>
