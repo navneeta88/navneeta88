@@ -43,9 +43,14 @@
     <text x="76" y="340" fill="#F7CAC9" font-size="13" letter-spacing="3">DREAM · BUILD · REPEAT</text>
   </g>
   <g clip-path="url(#portrait)">
-    <image href="https://raw.githubusercontent.com/navneeta88/navneeta88/main/assets/profile-photo.png"
-       x="850" y="69" width="210" height="210"
-       preserveAspectRatio="xMidYMid slice"/>
+    <image
+  href="https://raw.githubusercontent.com/navneeta88/navneeta88/main/assets/profile-photo.png"
+  x="850"
+  y="69"
+  width="210"
+  height="210"
+  preserveAspectRatio="xMidYMid slice"
+/>
   </g>
   <circle cx="955" cy="174" r="105" fill="none" stroke="url(#glow)" stroke-width="4"/>
   <path d="M1125 315l10 10-10 10-10-10z" fill="none" stroke="#92A8D1" stroke-width="1.5"/>
